@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/Ok3nw4/count.svg)
 
 - ![Profile views](https://gpvc.arturio.dev/Ok3nw4)
-- [![GitHub followers](https://img.shields.io/github/followers/Naim75o.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Ok3nw4?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/Ok3nw4.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Ok3nw4?tab=followers)
 
 > GITHUB STATES :
 
